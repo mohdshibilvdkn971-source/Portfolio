@@ -1,0 +1,35 @@
+MOHAMED SHIBIL VADAKKAN
+Aspiring Geoscientist | Science Meets Technology
+
+PROFILE
+Exploring the Earth through geology, understanding its complexity through geospatial technologies, and discovering new possibilities with artificial intelligence.
+
+AREAS OF INTEREST
+Igneous petrology
+Planetary geology
+Geographic information systems
+Remote sensing
+AI-assisted geological research
+
+CURRENTLY USED
+QGIS
+ChatGPT
+
+AREAS OF DEVELOPMENT
+ArcGIS
+Remote sensing and satellite image analysis
+Google Earth Engine
+Drone mapping
+Computer vision, artificial intelligence, and machine learning
+Python for geological data analysis
+Geospatial data science
+
+CONTACT
+Email: mohdshibilvdkn971@gmail.com
+Phone: +91 90484 5091
+
+EDUCATION AND EXPERIENCE
+Add verified education, fieldwork, experience, and certification details before publishing this CV.
+
+PROJECTS
+Project concepts are under development. No completed project results are claimed.
